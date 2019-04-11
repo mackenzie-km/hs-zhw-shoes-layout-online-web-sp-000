@@ -284,14 +284,12 @@ section a {
  display: inline;
  float: left;
  width: 31.2%;
- height: 100%;
  clear: both;
 }
 
 #ad_two, #ad_three {
   display: inline;
   float: right;
-  height: 100%;
   width: 31.2%;
 }
 
