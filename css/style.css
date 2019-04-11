@@ -298,6 +298,10 @@ section a {
   width: 31.2%;
 }
 
+div #border_right > p {
+  background: red;
+}
+
 /********** Details **********/
 
 #details {
