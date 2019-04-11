@@ -278,10 +278,11 @@ section a {
   width: 31.2%;
 }
 
-#ad_one.clearfix {
+#ad_one {
   display: inline;
   float: left;
   width: 31.2%;
+  clear: both;
 }
 
 #ad_two {
