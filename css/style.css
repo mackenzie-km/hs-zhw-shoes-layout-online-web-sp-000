@@ -270,12 +270,14 @@ section a {
   display: inline;
   float: left;
   width: 63.8%;
+  margin-bottom: 20px;
 }
 
 #archive {
   display: inline;
   float: right;
   width: 31.2%;
+  margin-bottom: 20px;
 }
 
 #ad_one {
