@@ -280,7 +280,7 @@ section a {
   width: 31.9%;
 }
 
-#ad_one {
+#ad_one, #contact {
  display: inline;
  float: left;
  width: 31.2%;
