@@ -259,6 +259,7 @@ section {
   background: white;
   margin: 0px 10px;
   padding: 20px;
+  margin-bottom: 20px;
 }
 
 section a {
@@ -270,14 +271,12 @@ section a {
   display: inline;
   float: left;
   width: 63.9%;
-  margin-bottom: 20px;
 }
 
 #archive {
   display: inline;
   float: right;
   width: 31.9%;
-  margin-bottom: 20px;
 }
 
 #ad_one {
