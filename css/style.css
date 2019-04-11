@@ -297,6 +297,8 @@ section a {
   float: right;
   width: 31.2%;
   border-left: 1px solid #A4A4A4;
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
 }
 
 /********** Details **********/
