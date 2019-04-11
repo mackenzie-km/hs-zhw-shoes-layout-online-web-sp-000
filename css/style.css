@@ -119,12 +119,13 @@ iframe {
   font: bold 42px 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
-  margin: 0 0 10px;
+  margin: 15px 0px 0px 20px;
 }
 
 .border_right {
-  border-right: 1px dotted #ccc;
-  padding-right: 20px;
+  overflow: hidden;
+  margin: 0px 10px;
+  padding: 20px;
 }
 
 .thumbs_up {
@@ -257,8 +258,9 @@ a.gplus:active { background-position: -80px -80px; }
 
 section {
   background: white;
-  margin: 0px 10px;
+  margin: 10px 10px;
   padding: 20px;
+  overflow: auto;
 }
 
 section a {
@@ -269,39 +271,40 @@ section a {
 #featured {
   display: inline;
   float: left;
-  width: 63.8%;
+  width: 63.9%;
 }
 
 #archive {
   display: inline;
   float: right;
-  width: 31.2%;
+  width: 31.9%;
 }
 
-#ad_one {
-  display: inline;
-  float: left;
-  width: 31.2%;
-  clear: both;
+#ad_one, #contact{
+ display: inline;
+ float: left;
+ width: 31.2%;
+ clear: both;
 }
 
-#ad_two {
-  display: inline;
-  float: right;
-  width: 31.2%;
-}
-
-#ad_three {
+#ad_two, #ad_three {
   display: inline;
   float: right;
   width: 31.2%;
+}
+
+#links, #follow {
+  display: inline;
+  float: right;
+  width: 31.2%;
+  border-left: 1px solid #A4A4A4;
 }
 
 /********** Details **********/
 
 #details {
   clear:both;
-  padding: 20px 10px;
+  padding: 0px 0px 20px 0px;
   /* gradient */
   background: rgb(229,229,229); /* Old browsers */
   background: -moz-linear-gradient(top,  rgba(229,229,229,1) 0%, rgba(255,255,255,1) 99%); /* FF3.6+ */
