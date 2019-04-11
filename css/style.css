@@ -125,6 +125,7 @@ iframe {
 .border_right {
   border-right: 1px dotted #ccc;
   padding-right: 20px;
+  background: red;
 }
 
 .thumbs_up {
@@ -298,9 +299,6 @@ section a {
   width: 31.2%;
 }
 
-.border_right > p {
-  background: red;
-}
 
 /********** Details **********/
 
