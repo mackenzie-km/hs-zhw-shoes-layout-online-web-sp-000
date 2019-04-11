@@ -284,6 +284,7 @@ section a {
  display: inline;
  float: left;
  width: 31.2%;
+ height: 100%;
  clear: both;
 }
 
