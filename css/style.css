@@ -291,6 +291,7 @@ section a {
 #ad_two, #ad_three {
   display: inline;
   float: right;
+  height: 100%;
   width: 31.2%;
 }
 
