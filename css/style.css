@@ -280,14 +280,27 @@ section a {
   width: 31.9%;
 }
 
-#ad_one, #contact {
-  display: inline;
-  float: left;
-  width: 31.2%;
-  clear: both;
+#ad_one {
+ display: inline;
+ float: left;
+ width: 31.2%;
+ clear: both;
 }
 
-#ad_two, #ad_three, #links, #follow {
+#contact {
+ display: inline;
+ float: left;
+ width: 31.2%;
+ clear: both;
+}
+
+#ad_two, #ad_three {
+  display: inline;
+  float: right;
+  width: 31.2%;
+}
+
+#links, #follow {
   display: inline;
   float: right;
   width: 31.2%;
