@@ -298,7 +298,7 @@ section a {
   width: 31.2%;
 }
 
-#border_right > p {
+.border_right > p {
   background: red;
 }
 
