@@ -302,7 +302,7 @@ section a {
 
 #details {
   clear:both;
-  padding: 20px 0;
+  padding: 0px 0px 20px 0px;
   /* gradient */
   background: rgb(229,229,229); /* Old browsers */
   background: -moz-linear-gradient(top,  rgba(229,229,229,1) 0%, rgba(255,255,255,1) 99%); /* FF3.6+ */
