@@ -280,14 +280,14 @@ section a {
   width: 31.9%;
 }
 
-#ad_one, #contact.clearfix:after {
+#ad_one, #contact{
  display: inline;
  float: left;
  width: 31.2%;
  clear: both;
 }
 
-#ad_two, #ad_three {
+#ad_two, #ad_three.clearfix:after  {
   display: inline;
   float: right;
   width: 31.2%;
