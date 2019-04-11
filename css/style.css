@@ -260,7 +260,7 @@ section {
   background: white;
   margin: 10px 10px;
   padding: 20px;
-  overflow: hidden;
+  overflow: auto;
 }
 
 section a {
@@ -285,23 +285,19 @@ section a {
  float: left;
  width: 31.2%;
  clear: both;
- margin-bottom: -99999px;
- padding-bottom: 99999px;
 }
 
 #ad_two, #ad_three {
   display: inline;
   float: right;
   width: 31.2%;
-  margin-bottom: -99999px;
-  padding-bottom: 99999px;
 }
 
 #links, #follow {
   display: inline;
   float: right;
   width: 31.2%;
-  border-left: 1px solid #A4A4A4;
+  border-left: 1px solid #A4A4A4
 }
 
 /********** Details **********/
