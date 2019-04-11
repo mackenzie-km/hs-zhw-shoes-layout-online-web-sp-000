@@ -260,7 +260,7 @@ section {
   background: white;
   margin: 10px 10px;
   padding: 20px;
-  overflow: auto;
+  overflow: hidden;
 }
 
 section a {
