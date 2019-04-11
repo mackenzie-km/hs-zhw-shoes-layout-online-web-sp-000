@@ -312,6 +312,7 @@ section a {
   background: -ms-linear-gradient(top,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 99%); /* IE10+ */
   background: linear-gradient(to bottom,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 99%); /* W3C */
   height: 220px;
+  overflow: hidden;
 }
 
 #details a:link, #details a:visited {
