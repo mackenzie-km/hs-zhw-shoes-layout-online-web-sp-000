@@ -287,12 +287,17 @@ section a {
   clear: both;
 }
 
-#ad_two, #ad_three, #links, #follow {
+#ad_two, #ad_three, #follow {
   display: inline;
   float: right;
   width: 31.2%;
 }
 
+#links {
+  display: inline;
+  float: right;
+  width: 28.2%;
+}
 
 /********** Details **********/
 
