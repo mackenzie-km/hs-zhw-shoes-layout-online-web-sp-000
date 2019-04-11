@@ -278,7 +278,7 @@ section a {
   width: 31.2%;
 }
 
-#ad_one {
+#ad_one.clear {
   display: inline;
   float: left;
   width: 31.2%;
