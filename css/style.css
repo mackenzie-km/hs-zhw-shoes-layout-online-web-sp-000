@@ -287,13 +287,6 @@ section a {
  clear: both;
 }
 
-#contact {
- display: inline;
- float: left;
- width: 31.2%;
- clear: both;
-}
-
 #ad_two, #ad_three {
   display: inline;
   float: right;
