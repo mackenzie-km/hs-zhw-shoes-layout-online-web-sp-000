@@ -272,13 +272,13 @@ section a {
   width: 63.8%;
 }
 
-#archive.clear {
+#archive {
   display: inline;
   float: right;
   width: 31.2%;
 }
 
-#ad_one.clear {
+#ad_one.clearfix {
   display: inline;
   float: left;
   width: 31.2%;
